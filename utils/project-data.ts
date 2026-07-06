@@ -102,7 +102,7 @@ export const projectsList: ProjectType[] = [
     description:
       "A 3D interactive website for Fizzi Juice, built with Next.js, React, and Three.js, featuring animated visuals and easy content management via Prismic CMS",
     image: soda,
-    link: "https://fizzi-soda.vercel.app/",
+    link: "https://fezzi-3d-website.netlify.app/",
     code:"https://github.com/Haidarahm/Fezzi-3D-Website",
     slug: "Fizzi Soda website",
     type: "frontend",
