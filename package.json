@@ -1,0 +1,53 @@
+{
+  "name": "portfolio-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@gsap/react": "^2.1.1",
+    "@mdx-js/loader": "^3.1.0",
+    "@mdx-js/react": "^3.1.0",
+    "@next/mdx": "^15.1.3",
+    "@react-three/drei": "^10.5.1",
+    "@react-three/fiber": "^9.2.0",
+    "@types/react-dom": "^19.1.6",
+    "@types/three": "^0.178.1",
+    "@vercel/analytics": "^1.4.1",
+    "clsx": "^2.1.1",
+    "cobe": "^0.6.4",
+    "dotted-map": "^2.2.3",
+    "eslint-config-next": "^15.1.3",
+    "framer-motion": "^11.18.2",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.18",
+    "lucide-react": "^0.525.0",
+    "motion": "^12.23.5",
+    "next": "^15.1.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icon": "^1.0.0",
+    "react-icons": "^5.5.0",
+    "sass": "^1.83.0",
+    "sharp": "^0.33.5",
+    "tailwind-merge": "^3.3.1",
+    "three": "^0.178.0",
+    "three-globe": "^2.43.0"
+  },
+  "devDependencies": {
+    "@shikijs/rehype": "^1.25.1",
+    "@types/mdx": "^2.0.13",
+    "@types/node": "^22.10.4",
+    "@types/react": "^19.1.8",
+    "shiki": "^1.25.1",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
